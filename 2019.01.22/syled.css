@@ -1,0 +1,39 @@
+body{
+
+	font-family:arial,san-serif;	
+	margin: 20px auto;
+	width: 70%;
+	border: 3px black solid;
+	padding: 20px;
+	background-color: magenta;
+	color:green;
+	background-image:url('images.JFIF');
+	background-repeat:no-repeat;
+	background-position: center center;
+}	
+hi{
+	color: brown;
+	font-weight:normal;
+}
+p{
+	color:yellow;
+	font-family:arial;
+	border: 1px green dotted;
+}
+#elsosor{
+	
+	text-indent: 20px;
+	
+}
+#tomor{
+	list-style-type:dis;
+}
+
+#ures{
+	
+	list-style-type:circle;
+}
+
+#negyzet{
+	list-style-type:square;
+}
